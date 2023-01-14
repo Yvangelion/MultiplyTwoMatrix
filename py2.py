@@ -1,0 +1,1 @@
+    """A class represent all sides"""
